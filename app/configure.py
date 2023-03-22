@@ -14,5 +14,5 @@ class Configure(object):
 
     # database
     SPIDER_MONGODB_URI = ""
-    SPIDER_JAVBUS_MONGODB_DB = "spider"
-    SPIDER_JAVBUS_MONGODB_CO = "javbus"
+    SPIDER_JAVBUS_MONGODB_DB = ""
+    SPIDER_JAVBUS_MONGODB_CO = ""
