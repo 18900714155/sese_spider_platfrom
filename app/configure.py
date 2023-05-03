@@ -13,6 +13,6 @@ class Configure(object):
     CHROME_WEB_HIDE = True
 
     # database
-    SPIDER_MONGODB_URI = ""
-    SPIDER_JAVBUS_MONGODB_DB = ""
-    SPIDER_JAVBUS_MONGODB_CO = ""
+    SPIDER_MONGODB_URI = "mongodb://admin:PaSsW0Rd@heyu7.com:9000/?authSource=admin"
+    SPIDER_JAVBUS_MONGODB_DB = "spider"
+    SPIDER_JAVBUS_MONGODB_CO = "javbus"
